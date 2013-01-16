@@ -1,0 +1,13 @@
+#python cruft
+*.pyc
+*.pyo
+
+# temporary
+*.h
+*.dll
+*.dylib
+
+
+# findercruft
+.DS_Store
+
