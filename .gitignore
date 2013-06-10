@@ -3,10 +3,7 @@
 *.pyo
 
 # temporary
-*.h
-*.dll
-*.dylib
-
+SDK/
 
 # findercruft
 .DS_Store
